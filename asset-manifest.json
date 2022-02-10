@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jordandorsey/static/css/main.fb9bfc6e.css",
+    "main.js": "/jordandorsey/static/js/main.331e99d3.js",
+    "index.html": "/jordandorsey/index.html",
+    "main.fb9bfc6e.css.map": "/jordandorsey/static/css/main.fb9bfc6e.css.map",
+    "main.331e99d3.js.map": "/jordandorsey/static/js/main.331e99d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb9bfc6e.css",
+    "static/js/main.331e99d3.js"
+  ]
+}
