@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/jordandorsey/static/css/main.23eb2dae.css",
-    "main.js": "/jordandorsey/static/js/main.80780b54.js",
+    "main.css": "/jordandorsey/static/css/main.376081a6.css",
+    "main.js": "/jordandorsey/static/js/main.389fc124.js",
+    "static/media/taylor-point-one.jpg": "/jordandorsey/static/media/taylor-point-one.91c5a21309e5d11ceace.jpg",
+    "static/media/taylor-intro.jpg": "/jordandorsey/static/media/taylor-intro.14b1db2e81cfd822a489.jpg",
+    "static/media/taylor-point-two.jpg": "/jordandorsey/static/media/taylor-point-two.4b54dc4388b74393fdb5.jpg",
+    "static/media/taylor-point-three.jpg": "/jordandorsey/static/media/taylor-point-three.1a005ff0bb0431474436.jpg",
     "index.html": "/jordandorsey/index.html",
-    "main.23eb2dae.css.map": "/jordandorsey/static/css/main.23eb2dae.css.map",
-    "main.80780b54.js.map": "/jordandorsey/static/js/main.80780b54.js.map"
+    "main.376081a6.css.map": "/jordandorsey/static/css/main.376081a6.css.map",
+    "main.389fc124.js.map": "/jordandorsey/static/js/main.389fc124.js.map"
   },
   "entrypoints": [
-    "static/css/main.23eb2dae.css",
-    "static/js/main.80780b54.js"
+    "static/css/main.376081a6.css",
+    "static/js/main.389fc124.js"
   ]
 }
