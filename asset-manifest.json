@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jordandorsey/static/css/main.239f7d96.css",
-    "main.js": "/jordandorsey/static/js/main.af494173.js",
+    "main.css": "/jordandorsey/static/css/main.8823bc4f.css",
+    "main.js": "/jordandorsey/static/js/main.410f4610.js",
     "index.html": "/jordandorsey/index.html",
-    "main.239f7d96.css.map": "/jordandorsey/static/css/main.239f7d96.css.map",
-    "main.af494173.js.map": "/jordandorsey/static/js/main.af494173.js.map"
+    "main.8823bc4f.css.map": "/jordandorsey/static/css/main.8823bc4f.css.map",
+    "main.410f4610.js.map": "/jordandorsey/static/js/main.410f4610.js.map"
   },
   "entrypoints": [
-    "static/css/main.239f7d96.css",
-    "static/js/main.af494173.js"
+    "static/css/main.8823bc4f.css",
+    "static/js/main.410f4610.js"
   ]
 }
